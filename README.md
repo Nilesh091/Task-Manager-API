@@ -67,4 +67,5 @@ curl -X POST http://localhost:3000/api/tasks \
    ```
 
 3. **Start your Frontend through any IDE (VS Code)**
-   Just open index.html in your browser or use Live Server (VS Code Extension).
+
+Just open index.html in your browser or use Live Server (VS Code Extension).
