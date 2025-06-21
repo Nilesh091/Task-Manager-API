@@ -50,3 +50,21 @@ curl -X POST http://localhost:3000/api/tasks \
   -H "Content-Type: application/json" \
   -d '{"title":"Buy milk","description":"From store"}'
 ```
+
+## 🛠️ How to Use
+
+1. **Clone the repository:**
+
+   ```bash
+   https://github.com/Nilesh091/Task-Manager-API.git
+   ```
+
+2. **Start your backend API**
+
+   ```bash
+   cd Backend
+   npm run dev
+   ```
+
+3. **Start your Frontend through any IDE (VS Code)**
+   Just open index.html in your browser or use Live Server (VS Code Extension).
