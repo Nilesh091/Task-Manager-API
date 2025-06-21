@@ -21,14 +21,14 @@ It connects to a backend API to perform CRUD operations:
 
 ## 📸 Preview
 
-![Screenshot](Screenshot 2025-06-22 at 12.28.12 AM.png) <!-- Replace with an actual screenshot if needed -->
+![Screenshot](preview.png) <!-- Replace with an actual screenshot if needed -->
 
 ---
 
 ## 🧩 Tech Stack
 
 - **Frontend**: HTML5, CSS3, Vanilla JavaScript
-- **Backend (assumed)**: Node.js + Express + MongoDB/PostgreSQL
+- **Backend (assumed)**: Node.js + Express + PostgreSQL
 
 ---
 
